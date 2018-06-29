@@ -1,0 +1,27 @@
+#banner{
+	margin: 10px 10px 10px 10px;
+	height: 500%;
+	width: 600%;
+	background-color: #222;
+}
+#foot{
+			width:100%;
+			background-color: #FFAFAF;
+			height: 20px;
+		}
+	h1{color: #000000;}
+		h2{color: #000;}
+		body{background-color: #BCBCBC; 
+			background-image: url('https://static1.squarespace.com/static/569c1dea1c1210c8103189de/56b0f7c4d210b8f744ac6893/598a29fab8a79b9a44388a98/1502383069543/Watermelon-2.jpeg?format=1500w');
+		}
+		#container{
+			margin: 0 5% 5% 5%;
+			border: 9px solid #FF6161;
+			background-color: #fff;
+			padding: 0 100px 10px 100px;
+		}
+		label{font-weight: bold;}
+		p{font-size: 15px; color:#000}
+		.menu{color: #0082FC}
+		.titleparrafo{font-color: #000;
+		}
